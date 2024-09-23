@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Leticia Thaina
 - 👀 Sou professora do CCM Vercindes Gerotto dos Reis
-- 🌱 Leciono a disciplina de Pensamento Computacional
+- 🌱 Leciono a disciplina de Matemática e Pensamento Computacional
 - 💞️ Eu AMO o que faço!!!
 - 📫 Meu email é leticiabonfogo762@gmail.com
 
